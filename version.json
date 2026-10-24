@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "versionName": "1.0.3",
+  "version": 4,
+  "versionName": "1.0.4",
   "apkUrl": "https://raw.githubusercontent.com/GilmaraApp-Code/gilmara-entregador-app/main/Gilmara-Entregador.apk",
-  "changelog": "Adicionado cadastro e edição de Chave PIX no perfil e nas configurações do entregador."
+  "changelog": "Rota azul no mapa até a Loja Gilmara ao aceitar corrida (Alameda Luísa Águida Borges, 160) e voz de navegação em português estilo Google Maps."
 }
