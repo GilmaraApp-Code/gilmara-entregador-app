@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "versionName": "1.0.2",
+  "version": 3,
+  "versionName": "1.0.3",
   "apkUrl": "https://raw.githubusercontent.com/GilmaraApp-Code/gilmara-entregador-app/main/Gilmara-Entregador.apk",
-  "changelog": "Confirmação de recebimento do pagamento da corrida pelo entregador e atualizações automáticas."
+  "changelog": "Adicionado cadastro e edição de Chave PIX no perfil e nas configurações do entregador."
 }
